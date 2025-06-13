@@ -27,6 +27,8 @@ Alternatively, you can download the ZIP file by clicking the "Code" button on th
 
 `win + r = appdata` -> `local/(discordFolder)/app-1.2.3/modules/discord_voice-1/discord_voice/` Replace the content of discord voice folder with all the files in this repo, make sure not to put `readme.md` in there start discord and have fun, there are no settings, juste pure sound, better quality and no more shitty mono sound.
 
+if you need more help just contact me trough discord
+
 ---
 
 ## Contact
